@@ -1,1 +1,2 @@
-"Texte initial" 
+Texte modifie dans branche2
+
